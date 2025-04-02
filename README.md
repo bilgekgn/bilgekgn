@@ -3,18 +3,22 @@ it's BARIN's repo
 I’m currently working on RF signal prossessing
 Call me Bilge Kagan.
 
+## Hakkımda
+- 🌱 Şu anda yazılım geliştirme üzerine çalışıyorum
+- 💡 Yeni teknolojiler öğrenmeye her zaman açığım
+- 🎯 Hedefim: Teknoloji dünyasında sürekli gelişmek ve öğrenmek
 
-<!--
-**bilgekgn/bilgekgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub İstatistiklerim
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=bilgekgn&show_icons=true&theme=radical&locale=tr)
 
-Here are some ideas to get you started:
+## Teknolojiler ve Araçlar
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<!-- Kullandığınız diğer teknolojilerin ikonlarını buraya ekleyebilirsiniz -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## İletişim
+- 📫 Bana ulaşmak için: [GitHub](https://github.com/bilgekgn)
+
+---
+⭐ Son güncelleme: 2025-04-02
