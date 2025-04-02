@@ -1,4 +1,8 @@
 ## Hi there 👋
+it's BARIN's repo
+I’m currently working on RF signal prossessing
+Call me Bilge Kagan.
+
 
 <!--
 **bilgekgn/bilgekgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
